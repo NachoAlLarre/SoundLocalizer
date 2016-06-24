@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SoundLocalizer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sound_localizer">SoundLocalizer</string>
+    <string name="radio_slave">Slave</string>
+    <string name="radio_master">Master</string>
+    <string name="btn_select">Select Role</string>
+
+</resources>
